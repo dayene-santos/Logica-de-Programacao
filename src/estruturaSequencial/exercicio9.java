@@ -18,9 +18,8 @@ public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		double A, B, C, pi, triangulo, trapezio, quadrado;
+		double A, B, C, triangulo, trapezio, quadrado;
 		
-		pi = 3.14159;
 		System.out.print("Digite a medida A: ");
 			A = sc.nextDouble();
 			
