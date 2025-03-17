@@ -47,26 +47,31 @@ Cada diretório representa um módulo do curso, contendo exercícios nomeados co
 
 Até o momento, estou praticando com a linguagem:
 
-![Java](https://upload.wikimedia.org/wikipedia/commons/6/6e/Java_logo_%282013%29.svg)
+  JAVA 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>  
+      
  
 ## 🚀 Como Contribuir
 
-Fique à vontade para sugerir melhorias ou compartilhar soluções alternativas!
-
-Faça um fork deste repositório.
-
-Crie um branch com sua contribuição: git checkout -b minha-contribuicao.
-
-Faça o commit das alterações: git commit -m 'Minha contribuição'.
-
-Faça um push para o branch: git push origin minha-contribuicao.
-
-Abra um pull request.
+- Fique à vontade para sugerir melhorias ou compartilhar soluções alternativas!
+- Faça um fork deste repositório.
+- Crie um branch com sua contribuição: git checkout -b minha-contribuicao.
+- Faça o commit das alterações: git commit -m 'Minha contribuição'.
+- Faça um push para o branch: git push origin minha-contribuicao.
+- Abra um pull request.
 
 📞 Contato
 
 Se quiser trocar uma ideia, me chama por aqui:
 
-![LinkedIn](www.linkedin.com/in/dayene-dos-santos-rosa)
+<a href="mailto:dayenesantos.work@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>  
+
+<a href="https://www.linkedin.com/in/seu-linkedin" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+</a>  
+
+[![GitHub](https://img.shields.io/github/followers/dayene-santos?label=follow&style=social)](https://github.com/dayene-santos)
 
 📝 *Este repositório será atualizado conforme o progresso no curso!*
