@@ -64,14 +64,18 @@ Até o momento, estou praticando com a linguagem:
 
 Se quiser trocar uma ideia, me chama por aqui:
 
-<a href="mailto:dayenesantos.work@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>  
+## 📫 Onde me encontrar  
 
-<a href="https://www.linkedin.com/in/seu-linkedin" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-</a>  
-
-[![GitHub](https://img.shields.io/github/followers/dayene-santos?label=follow&style=social)](https://github.com/dayene-santos)
+<p align="left">
+  <a href="mailto:dayenesantos.work@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dayene-dos-santos-rosa/" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/dayene-santos" title="GitHub">
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+  </a>
+</p>
 
 📝 *Este repositório será atualizado conforme o progresso no curso!*
